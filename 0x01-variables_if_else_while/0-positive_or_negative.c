@@ -3,8 +3,8 @@
 #include <stdio.h>
 /**
  * main -Entry point
- * description 'positive or negative'
- * Return: always 0 
+ * Description: 'Positive or negative'
+ * Return: always 0 (success)
  */
 int main(void)
 {
@@ -25,5 +25,4 @@ int main(void)
 		printf("%d is negative\n", n);
 	}
 	return (0);
-
 }
