@@ -8,8 +8,9 @@
  *
  * Return: 1 for lowercase character. 0 for the rest
  */
-int _islwer(int c);
+int _islwer(int c)
 {
+
 	if (c >= 97 && c <= 122)
 	{
 		return (1);
