@@ -3,10 +3,11 @@
  * *times_table - prints the 9 times table
  * *
  * *Return: returns nothing
- * */
+ */
 void times_table(void)
 {
 	int digit, mult, result;
+	
 	for (digit = 0; digit <= 9; digit++)
 	{
 		_putchar('0');
