@@ -1,5 +1,5 @@
-#include "main.h
-"/**
+#include "main.h"
+/**
  * _strcmp - compare 2 strings.
  * @s1: string to be compared.
  * @s2: string for comparation.
